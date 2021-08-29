@@ -13,8 +13,7 @@ for (const file of commandFiles) {
 	const command = require(`./commands/${file}`);
 	commands.push(command.data.toJSON());
 }
-
-/* Saving this in case I might need it later.
+ /* Saving for later, just in case
 !map(command => command.toJSON());
 */
 
