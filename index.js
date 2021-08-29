@@ -24,6 +24,16 @@ for (const file of commandFiles) {
 	client.commands.set(command.data.name, command);
 }
 
+client.on("message", (message) => {
+  if (message.content.startsWith("ping")) {
+    message.channel.send("pong!");
+  } else
+
+  if (message.content.startsWith("foo")) {
+    message.channel.send("bar!");
+  }
+});
+
 client.on(`interactionCreate`, async interaction => {
     if (!interaction.isCommand()) return;
 
