@@ -1,0 +1,34 @@
+
+:sparkles:__**W  E  L  C  O  M  E**__:sparkles:
+
+"Welcome to Esridar, the land of Archons. As an Archon, you possess incredible powers and life longevity beyond that of other creatures. You descend from a mystical and elite force originally formed from aether, the life force, to be guardians and stewards of the world and all that inhabit it.
+
+Each Archon is unique and born with two spheres of power. The first sphere represents your element that grounds and connects you to this physical realm."
+
+```**//------ E L E M E N T S -----//**```
+:cloud_tornado: **Air**
+"You control elements of air. Air can range from weather to our very breath."
+
+:ocean: **Water** 
+"You control elements of water. Water can range from mist to frost."
+
+:fire: **Fire**
+"You control elements of Fire. Fire can range from heat to lava flows."
+
+:leaves: **Earth**
+"You control elements of Earth. Earth can range from dirt to flora."
+
+``` A word of caution... ```
+"Be advised. Once you choose your element, it cannot be changed. Please select the reaction below to claim your sphere. What is your element?"
+
+
+--------------------------------------
+
+alignment / orientation / 
+light or dark / good or evil / 
+:performing_arts: :innocent: :imp: :superhero: :supervillain: 
+
+
+:crossed_swords: __**F A C T I O N S**__ :crossed_swords: 
+
+...
