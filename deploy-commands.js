@@ -17,6 +17,16 @@ for (const file of commandFiles) {
 !map(command => command.toJSON());
 */
 
+client.on('interactionCreate', interaction => {
+	if (!interaction.isCommand()) return;
+
+	if (interaction.commandName === 'ping') {
+		await interaction.reply('Pong!');
+	}
+	
+	console.log(interaction);
+});
+
 const rest = new REST({ version: '9' }).setToken(token);
 
 (async () => {
