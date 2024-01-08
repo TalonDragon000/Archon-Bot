@@ -8,3 +8,6 @@ module.exports = {
 		await interaction.reply('Pong!');
 	},
 };
+
+// This is a sample test to see if
+// I can code via mobile. If so that's Sick!
